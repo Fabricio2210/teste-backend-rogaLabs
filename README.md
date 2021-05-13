@@ -1,9 +1,3 @@
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
-</p>
-
-
 ##  Sobre o projeto
 
  O projeto é capaz de receber denuncias através de uma API, salvar as informações passadas e reenviar ao cliente com o endereço correspondente as coordenadas geográficas enviadas na requisição
