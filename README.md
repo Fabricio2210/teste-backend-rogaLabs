@@ -33,10 +33,11 @@ $ cd teste-backend-nodejs
 # Crie um arquivo .env com as seguintes variáveis
 - DB_KEY (Chave do banco de dados)
 - MAP_KEY (Chave da Api mapQuest )
+- 
 # Execute a aplicação
 $ npm start
 ```
-### :microscope: Testando
+### Teste:
 ```bash
 # Rode os testes em outra instância do terminal
 $ npm test
